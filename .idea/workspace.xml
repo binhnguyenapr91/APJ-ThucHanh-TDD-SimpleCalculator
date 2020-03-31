@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="640f7c0e-c299-4c25-9631-3ce8e3d64425" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsaBHAsZ7nhXouMtqQBBPQhVwt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SimpleCalculatorTest.addMINvsNegative1">
+    <configuration name="SimpleCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APJ-ThucHanh-TDD-SimpleCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APJ-ThucHanh-TDD-SimpleCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.add1vs0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APJ-ThucHanh-TDD-SimpleCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="add1vs0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.addMAXvs1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APJ-ThucHanh-TDD-SimpleCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="addMAXvs1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.addMINvsNegative1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APJ-ThucHanh-TDD-SimpleCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="addMINvsNegative1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleCalculatorTest.addMINvsNegative1" />
+        <item itemvalue="JUnit.SimpleCalculatorTest" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.addMAXvs1" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.add1vs0" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="640f7c0e-c299-4c25-9631-3ce8e3d64425" name="Default Changelist" comment="" />
+      <created>1585630117927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585630117927</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="914" height="287" key="GridCell.Tab.0.bottom" timestamp="1585631877363">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585631877363" />
+    <state width="914" height="287" key="GridCell.Tab.0.center" timestamp="1585631877362">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585631877362" />
+    <state width="914" height="287" key="GridCell.Tab.0.left" timestamp="1585631877362">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585631877362" />
+    <state width="914" height="287" key="GridCell.Tab.0.right" timestamp="1585631877363">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585631877363" />
+    <state x="2585" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585630244585">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2585" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585630244585" />
+    <state x="2651" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585630248964">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2651" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585630248964" />
+    <state x="3016" y="185" width="670" height="676" key="search.everywhere.popup" timestamp="1585631755079">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="3016" y="185" width="670" height="676" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585631755079" />
+  </component>
+</project>
